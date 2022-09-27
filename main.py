@@ -1,6 +1,6 @@
 import streamlit as st
 from PIL import Image
-im = Image.open("favicon1.ico")
+im = Image.open("favicon2.ico")
 PAGE_TITLE = "Connect with Ashis Tiwari"
 st.set_page_config(page_title=PAGE_TITLE, page_icon=im)
 
